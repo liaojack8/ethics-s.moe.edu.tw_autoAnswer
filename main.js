@@ -138,7 +138,7 @@
 			this.iframe.src = 'https://ethics-s.moe.edu.tw/exam/'
 	
 			$("body").html('<div id="auto_answer" />')
-			$("body > #auto_answer").load("https://liaojack8.netlify.app/about/ethics-s.moe.edu.tw_autoanswer/UI.html")
+			$("body > #auto_answer").load("https://fervent-mestorf-4d39a5.netlify.app/UI.html")
 			$("body").append(this.iframe)
 		},
 		run_Auto (ans_json) {
