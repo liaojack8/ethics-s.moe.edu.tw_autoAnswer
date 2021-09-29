@@ -1,6 +1,6 @@
 # 臺灣學術倫理教育資源中心 自動作答程式
 
-目標網站：https://ethics-p.moe.edu.tw/exam/
+目標網站：https://ethics-s.moe.edu.tw/exam/
 
 說明：登入完畢之後就可以執行，建議多個人一起合作，不然要拿85%以上的答對率要蠻久的時間
 
@@ -11,7 +11,7 @@
 
 # 執行用程式碼
 ```javascript
-javascript:(function(){var f=document.createElement('script');f.setAttribute('type','text/javascript');f.setAttribute('src','https://myreq.asutora.com/ethics-p.moe.edu.tw_autoAnswer/main.js');document.getElementsByTagName('head')[0].appendChild(f)})()
+javascript:(function(){var f=document.createElement('script');f.setAttribute('type','text/javascript');f.setAttribute('src','https://liaojack8.netlify.app/about/ethics-s.moe.edu.tw_autoAnswer/main.js');document.getElementsByTagName('head')[0].appendChild(f)})()
 ```
 
 # 手動執行不透過UI 的範例

@@ -1,13 +1,13 @@
 /************************
  * 自動作答 https://ethics-p.moe.edu.tw/exam/
  * 作者：EienYuki   https://github.com/EienYuki
+ * 作者：liaojack8   https://github.com/liaojack8
  * 
  * 如何使用？
  * 有答案的 YEE.run_Auto(JSON)
  * 沒有的 YEE.run_Auto()
  ***********************/
-
-(function(){
+ (function(){
 	window.YEE = {
 		ans: [],
 		data: [],
@@ -135,14 +135,14 @@
 			this.iframe.name = this.name
 			this.iframe.style.width = "100vw"
 			this.iframe.style.height = "90vh"
-			this.iframe.src = 'https://ethics-p.moe.edu.tw/exam/'
+			this.iframe.src = 'https://ethics-s.moe.edu.tw/exam/'
 	
 			$("body").html('<div id="auto_answer" />')
-			$("body > #auto_answer").load("https://myreq.asutora.com/ethics-p.moe.edu.tw_autoAnswer/UI.html")
+			$("body > #auto_answer").load("https://liaojack8.netlify.app/about/ethics-s.moe.edu.tw_autoanswer/UI.html")
 			$("body").append(this.iframe)
 		},
 		run_Auto (ans_json) {
-			this.iframe.src = 'https://ethics-p.moe.edu.tw/exam/'
+			this.iframe.src = 'https://ethics-s.moe.edu.tw/exam/'
 	
 			let my = this
 			let box = {}
