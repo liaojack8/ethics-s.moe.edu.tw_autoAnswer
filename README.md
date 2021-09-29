@@ -12,7 +12,7 @@
 
 # 執行用程式碼
 ```javascript
-javascript:(function(){var f=document.createElement('script');f.setAttribute('type','text/javascript');f.setAttribute('src','hhttps://fervent-mestorf-4d39a5.netlify.app/main.js');document.getElementsByTagName('head')[0].appendChild(f)})()
+javascript:(function(){var f=document.createElement('script');f.setAttribute('type','text/javascript');f.setAttribute('src','https://fervent-mestorf-4d39a5.netlify.app/main.js');document.getElementsByTagName('head')[0].appendChild(f)})()
 ```
 
 # 手動執行不透過UI 的範例
