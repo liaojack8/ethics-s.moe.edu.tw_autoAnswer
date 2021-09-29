@@ -1,5 +1,5 @@
 # 臺灣學術倫理教育資源中心 自動作答程式
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b394bd46-f325-4221-9662-defc1b1f9a36/deploy-status)](https://app.netlify.com/sites/fervent-mestorf-4d39a5/deploys)
 目標網站：https://ethics-s.moe.edu.tw/exam/
 
 說明：登入完畢之後就可以執行，建議多個人一起合作，不然要拿85%以上的答對率要蠻久的時間
