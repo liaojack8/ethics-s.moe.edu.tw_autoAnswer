@@ -50,7 +50,8 @@
 		
 				let flag = true
 				for (const x of this.ans) {
-					if (x.title == title) {
+					// if (x.title == title) {
+					if (title.includes(x.title)) {
 						flag = false
 						$(tmp.find('input')[Number(x.select)]).click()
 						count_O += 1
