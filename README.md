@@ -7,6 +7,8 @@
 
 用法提示：在網址列輸入 或是 加入書籤
 
+放了一點東西在wiki page, 後續不更新, 希望對大家有幫助, 祝大家早日通過: )
+
 # 執行畫面
 ![image](https://i.imgur.com/p6eUWjL.png)
 
