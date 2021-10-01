@@ -10,7 +10,7 @@
 放了一點東西在wiki page, 後續不更新, 希望對大家有幫助, 祝大家早日通過: )
 
 # 執行畫面
-![image](https://i.imgur.com/p6eUWjL.png)
+![](https://i.imgur.com/ar6NxZg.png)
 
 # 執行用程式碼
 ```javascript
